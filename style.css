@@ -1,10 +1,10 @@
 *{ margin:0; padding:0}
 body{
         font-family: arial, sana-serif;
-        background: red
+        background: black;
 }
 header{
-        background: blue;
+        background: blue;;
         padding: 20px;
         display: flex;
         aling-items: center;
@@ -33,6 +33,28 @@ section#noticias{
         margin: 0 auto;
         border: 1px solid blck;
 }
-section
+section#noticias ul li{
+        list-style: none;
+        width: 350px;
+        height: 350px;
+        background: gray;
+}
+section#noticias img{
+        text-align: center;
+        height: 100%;
+        width: 100%;
+        box-sadow: 5px 0px 0px 0px #00000030;
+}
+section#noticias .categoria{
+        text-align: center;
+}
+setion#noticaias h2{
+        font-size: 35px;
+        color: #333333;
+        text-align: center;
+}
+
+        
+                
         
                 
