@@ -1,4 +1,31 @@
 *{ margin:0; padding:0}
 body{
+        font-family: arial, sana-serif;
         background: red
 }
+header{
+        background: blue;
+        padding: 20px;
+        display: flex;
+        aling-items: center;
+        justify-content: space-between;
+}
+header img{
+        height: 50%;
+}
+nav ul{
+        list-style: none;
+        display: flex;
+        gap: 20px;
+}
+nav ul li{
+        color: white;
+        text-decoration: none;
+        font-size: 16px;
+        transtion: color 0.3s ease;
+}
+nav ul li a:hover{
+        color: #ffcc00;
+}        
+        
+                
