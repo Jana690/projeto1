@@ -53,7 +53,14 @@ setion#noticaias h2{
         color: #333333;
         text-align: center;
 }
-
+section#noticias .categoria{
+        text-align: center;
+}
+setion#noticaias h2{
+        font-size: 35px;
+        color: #333333;
+        text-align: center;
+}
         
                 
         
